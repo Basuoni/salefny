@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437278803908",
+    "project_id": "salefny-86a74",
+    "storage_bucket": "salefny-86a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437278803908:android:5afbaee852d84423880691",
+        "android_client_info": {
+          "package_name": "com.codex.salefny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhtcTDIi8D-KXp8DWq_LYkQg2nhlVcZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
